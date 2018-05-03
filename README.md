@@ -1,1 +1,1 @@
-# A simple javascript exercise that I plan to build upon.
+# A simple javascript temperature exercise that I plan to build upon.
